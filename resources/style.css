@@ -15,9 +15,9 @@ main h2 {
     font-weight: 300;
 }
 
-.link {
-    font-size: 16px;
+a:link {
     color: aquamarine;
+    font-size: 16px;
 }
 
 a:visited {
